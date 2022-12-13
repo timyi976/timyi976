@@ -3,6 +3,7 @@
 I'm a junior student studying at National Taiwan University, major in Computer Science and information Engineering.💻
 
 🌱 I’m currently learning deep learning, NLP, networks, computer systems and more!
+
 🔭 I’m currently working on some projects, including:
 - a simple web server written soley in socket and Python (without using any backend framework)
 - using Stable diffusion model to generate a series of comic given a short story
