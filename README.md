@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm a junior student studying at National Taiwan University, major in Computer Science and information Engineering.💻
+I'm a graduate studying at National Taiwan University, major in Computer Science and information Engineering, and a member of NLP lab of NTU CSIE.💻
 
-🌱 I’m currently learning deep learning, NLP, networks, computer systems and more!
+🌱 My major research topic is NLP, focusing on recent LLM development and related research.
 
 🔭 I’m currently working on some projects, including:
-- a simple web server written soley in socket and Python (without using any backend framework)
-- using Stable diffusion model to generate a series of comic given a short story
-- using deep learning to implement a recommendation system for course-purchasing website
+- Analyze the performance of using LLM as feedback in RLHF/RLAIF
+- Personalized text generation utilizing the power of VLLM
 
 📫 How to reach me: Please send email to b09902067@ntu.edu.tw to reach me!
 
