@@ -5,10 +5,10 @@ I'm a graduate studying at National Taiwan University, major in Computer Science
 🌱 My major research topic is NLP, focusing on recent LLM development and related research.
 
 🔭 I’m currently working on some projects, including:
-- Analyze the performance of using LLM as feedback in RLHF/RLAIF
-- Personalized text generation utilizing the power of VLLM
+- Multi-agent application on medical scenario
+- Compound AI system optimization
 
-📫 How to reach me: Please send email to b09902067@ntu.edu.tw to reach me!
+📫 How to reach me: Please send email to gtyi@nlg.csie.ntu.edu.tw to reach me!
 
 <!--
 **timyi976/timyi976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
