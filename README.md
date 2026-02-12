@@ -5,8 +5,8 @@ I'm a graduate studying at National Taiwan University, major in Computer Science
 🌱 My major research topic is NLP, focusing on recent LLM development and related research.
 
 🔭 I’m currently working on some projects, including:
-- Multi-agent application on medical scenario
-- Compound AI system optimization
+- LLM-as-a-judge and its meta judging
+- LLM with different transformer block architecture
 
 📫 How to reach me: Please send email to gtyi@nlg.csie.ntu.edu.tw to reach me!
 
